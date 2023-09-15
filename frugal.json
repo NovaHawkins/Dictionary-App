@@ -1,0 +1,94 @@
+[{
+	"meta": {
+		"id": "frugal",
+		"uuid": "a4b3a5fb-896e-4fc3-8fc8-9930d9f36485",
+		"sort": "063470000",
+		"src": "collegiate",
+		"section": "alpha",
+		"stems": ["frugal", "frugally"],
+		"offensive": false
+	},
+	"hwi": {
+		"hw": "fru*gal",
+		"prs": [{
+			"mw": "\u02c8fr\u00fc-g\u0259l",
+			"sound": {
+				"audio": "frugal01",
+				"ref": "c",
+				"stat": "1"
+			}
+		}]
+	},
+	"fl": "adjective",
+	"def": [{
+		"sseq": [
+			[
+				["sense", {
+					"dt": [
+						["text", "{bc}characterized by or reflecting {d_link|economy|economy:1} in the use of resources"]
+					]
+				}]
+			]
+		]
+	}],
+	"uros": [{
+		"ure": "fru*gal*ly",
+		"prs": [{
+			"mw": "\u02c8fr\u00fc-g\u0259-l\u0113",
+			"sound": {
+				"audio": "frugal03",
+				"ref": "c",
+				"stat": "1"
+			}
+		}],
+		"fl": "adverb"
+	}],
+	"syns": [{
+		"pl": "synonyms",
+		"pt": [
+			["text", "{sc}sparing{\/sc} {sc}frugal{\/sc} {sc}thrifty{\/sc} {sc}economical{\/sc} mean careful in the use of one\u0027s money or resources. {sc}sparing{\/sc} stresses abstention and restraint. "],
+			["vis", [{
+				"t": "{it}sparing{\/it} in the offering of advice"
+			}]],
+			["text", " {sc}frugal{\/sc} implies absence of luxury and simplicity of lifestyle. "],
+			["vis", [{
+				"t": "ran a {it}frugal{\/it} household"
+			}]],
+			["text", " {sc}thrifty{\/sc} stresses good management and industry. "],
+			["vis", [{
+				"t": "{it}thrifty{\/it} use of nonrenewable resources"
+			}]],
+			["text", " {sc}economical{\/sc} stresses prudent management, lack of wastefulness, and use of things to their best advantage. "],
+			["vis", [{
+				"t": "an {it}economical{\/it} health-care plan"
+			}]]
+		]
+	}],
+	"quotes": [{
+		"t": "His meals are the {qword}frugal{\/qword} fare of the poor: tea, bread, yogurt, a bit of cheese, vegetables.",
+		"aq": {
+			"auth": "Johanna McGeary",
+			"source": "{it}Time{\/it}",
+			"aqdate": "25 Oct. 2004"
+		}
+	}, {
+		"t": "In a {qword}frugal{\/qword} white frame house of tiny rooms that shook with every passing freight train, five boys of German immigrant background had grown up at the turn of the twentieth century.",
+		"aq": {
+			"auth": "Robert D. Kaplan",
+			"source": "{it}An Empire Wilderness{\/it}",
+			"aqdate": "1988"
+		}
+	}, {
+		"t": "Like {qword}frugal{\/qword} cooks everywhere, Cajun cooks from generations past found plenty of ways to use every part of the animals they raised.",
+		"aq": {
+			"auth": "Jeremy Sauer",
+			"source": "{it}Cook\u0027s Country{\/it}",
+			"aqdate": "June 1995"
+		}
+	}],
+	"et": [
+		["text", "Middle French or Latin; Middle French, from Latin {it}frugalis{\/it} virtuous, frugal, from {it}frug-, frux{\/it} fruit, value; akin to Latin {it}frui{\/it} to enjoy"]
+	],
+	"date": "1542",
+	"shortdef": ["characterized by or reflecting economy in the use of resources"]
+}]
